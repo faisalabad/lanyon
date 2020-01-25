@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Example content
+redirect_to: tel:+923339948967
+
 ---
 
 
