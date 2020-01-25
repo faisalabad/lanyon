@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What's Jekyll?
-redirect_to: http://www.github.com
+redirect_to: +923339948967
 
 ---
 
