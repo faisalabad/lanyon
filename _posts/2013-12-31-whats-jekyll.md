@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What's Jekyll?
-redirect_to: +923339948967
+redirect_to: tel:+923339948967
 
 ---
 
